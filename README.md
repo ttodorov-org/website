@@ -4,8 +4,6 @@ This is a realy awesome website
 
 Updates made on mster on GitHub before rebase
 
-## Purpose
+## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote side.
-This was edited locally
+This File is just a readme file.
